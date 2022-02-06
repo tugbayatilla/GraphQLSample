@@ -7,7 +7,7 @@
 
 ## Tools
 
-- VsCode
+- vscode
 
 ## Purpose
 
